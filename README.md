@@ -3,8 +3,8 @@
 A React dashboard to view, add, edit, and delete users, built against the
 [JSONPlaceholder](https://jsonplaceholder.typicode.com) `/users` endpoint.
 
-Live demo:
-Repo: 
+Live demo: https://user-management-dashboard-seven-pi.vercel.app
+Repo: https://github.com/Rahulkumar-RP/User-Management-Dashboard
 
 ## Features
 
